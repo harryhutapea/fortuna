@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:testing_app/not_so_profile.dart';
+import 'package:fortuna/not_so_profile.dart';
 import 'profile_page.dart';
 
 class HomePage extends StatelessWidget {

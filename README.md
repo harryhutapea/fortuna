@@ -1,4 +1,4 @@
-# testing_app
+# fortuna
 
 A new Flutter project.
 
