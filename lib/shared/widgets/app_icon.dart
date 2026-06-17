@@ -12,7 +12,7 @@ class AppIcon extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return SvgPicture.asset(
-      '/svg/$assetName.svg',
+      'assets/svg/$assetName.svg',
       height: size,
       width: size,
       colorFilter: color != null
